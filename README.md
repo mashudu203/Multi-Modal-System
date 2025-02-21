@@ -4,11 +4,11 @@
 
 This project implements a multi-modal image retrieval system using CLIP and FAISS. Users provide a text query, and the system returns the top-5 matching images from a dataset.
 
-#Dataset
+# Dataset
 
 You must manually download the dataset from Kaggle before running the system.
 
-Go to this Kaggle dataset:https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset/data?select=test_data_v2
+`Go to this Kaggle dataset:https://www.kaggle.com/datasets/alessandrasala79/ai-vs-human-generated-dataset/data?select=test_data_v2`
 
 Download and extract the test2_data_v2 folder.
 
@@ -18,8 +18,8 @@ Place it in a directory of your choice.
 
 Clone the repository:
 
-~git clone https://github.com/yourusername/multi-modal-System.git
-  <br>cd multi-modal-retrieval
+`git clone https://github.com/yourusername/multi-modal-System.git`
+  <br>`cd multi-modal-retrieval`
 
 ## Install dependencies:
 
