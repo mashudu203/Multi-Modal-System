@@ -23,26 +23,26 @@ Clone the repository:
 
 ## Install dependencies:
 
-`pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Run the data preparation script (update the dataset path in prepare_data.py first!):
 
-`python prepare_data.py
+`python prepare_data.py`
 
 ## Start the backend:
 
-`uvicorn api:app --reload
+`uvicorn api:app --reload`
 
 ## Start the front-end:
 front-end includes index.html and style.css for UI styling
 
-`streamlit run Multimodal.py
+`streamlit run Multimodal.py`
 
 ## Running Tests
 
 To test the system:
 
-`pytest tests/
+`pytest tests/`
 
 ## Assumptions
 
