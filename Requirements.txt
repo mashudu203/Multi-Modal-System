@@ -1,0 +1,11 @@
+torch
+faiss-cpu
+clip-by-openai
+numpy
+pillow
+fastapi
+uvicorn
+requests
+streamlit
+tqdm
+pytest
