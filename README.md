@@ -33,7 +33,8 @@ python prepare_data.py
 
 uvicorn api:app --reload
 
-Start the front-end:
+## Start the front-end:
+front-end includes index.html and style.css for UI styling
 
 streamlit run Multimodal.py
 
