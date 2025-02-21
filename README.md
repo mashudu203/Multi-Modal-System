@@ -14,14 +14,14 @@ Download and extract the test2_data_v2 folder.
 
 Place it in a directory of your choice.
 
-# Setup & Installation
+## Setup & Installation
 
 Clone the repository:
 
 git clone https://github.com/yourusername/multi-modal-retrieval.git
-cd multi-modal-retrieval
+ cd multi-modal-retrieval
 
-# Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 
@@ -29,7 +29,7 @@ Run the data preparation script (update the dataset path in prepare_data.py firs
 
 python prepare_data.py
 
-# Start the backend:
+## Start the backend:
 
 uvicorn api:app --reload
 
@@ -37,7 +37,7 @@ Start the front-end:
 
 streamlit run Multimodal.py
 
-# Running Tests
+## Running Tests
 
 To test the system:
 
