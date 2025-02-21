@@ -18,7 +18,7 @@ Place it in a directory of your choice.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/multi-modal-retrieval.git
+git clone https://github.com/yourusername/multi-modal-System.git
   <br>cd multi-modal-retrieval
 
 ## Install dependencies:
