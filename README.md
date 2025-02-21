@@ -4,7 +4,7 @@
 
 This project implements a multi-modal image retrieval system using CLIP and FAISS. Users provide a text query, and the system returns the top-5 matching images from a dataset.
 
-# Dataset
+## Dataset
 
 You must manually download the dataset from Kaggle before running the system.
 
