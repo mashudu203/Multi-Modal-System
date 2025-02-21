@@ -19,7 +19,7 @@ Place it in a directory of your choice.
 Clone the repository:
 
 git clone https://github.com/yourusername/multi-modal-retrieval.git
- cd multi-modal-retrieval
+  cd multi-modal-retrieval
 
 ## Install dependencies:
 
